@@ -1,0 +1,4 @@
+- [ ] Update accent color from #00d4ff to #ff6b35 in style.css
+- [ ] Adjust hover colors for buttons and icons to match new accent
+- [ ] Update gradients if needed for better visual appeal
+- [ ] Test changes in browser for responsiveness and accessibility
